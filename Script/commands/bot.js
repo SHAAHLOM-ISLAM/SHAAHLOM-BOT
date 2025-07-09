@@ -63,7 +63,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "ceo")) {
-     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞ ⃝—͟͟͞͞ 𝐂.𝐄.𝐎⸙𝐒𝐇ꫝꫝ𝐇𝐋𝐎𝐌𓆪 ☜\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 Shourov.\n𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- https://www.facebook.com/www.xsxx.com365\nতার সাতে যোগা যোগ করবেন WhatsApp :- +01709281334", threadID);
+     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞ ⃝—͟͟͞͞ 𝐂.𝐄.𝐎⸙𝐒𝐇ꫝꫝ𝐇𝐋𝐎𝐌𓆪 ☜\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 shaahl.\n𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- https://www.facebook.com/pr.mbir.mtrr.m.par.mpir.m.cur.2025\nতার সাতে যোগা যোগ করবেন WhatsApp :- +01328091668", threadID);
    };
 
    if ((event.body.toLowerCase() == "Tor boss ke") || (event.body.toLowerCase() == "admin ke ")) {
@@ -91,7 +91,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("সরি বস মাফ করে দেন আর এমন ভুল হবে না🥺🙏", threadID);
    };
 
-   if ((event.body.toLowerCase() == "রোমিও") || (event.body.toLowerCase() == "@রোমিও 卝 Rajヅ")) {
+   if ((event.body.toLowerCase() == "@রোমিও 卝 Rajヅ") || (event.body.toLowerCase() == "@রোমিও 卝 Rajヅ")) {
      return api.sendMessage("খবরদার কেউ এই আইড়ি মেনশন দিবানা এটা আমার বস ⃝—͟͟͞͞ 𝐂.𝐄.𝐎⸙𝐒𝐇𝐀𝐀𝐇𝐋𝐎𝐌𓆪___//🩷 এর এর জানুর আইড়ি😠🥰⛏️", threadID);
    };
 
